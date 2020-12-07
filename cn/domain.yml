@@ -7,6 +7,10 @@ intents:
   - deny
   - mood_great
   - mood_unhappy
+  - weather
+
+actions:
+  - action_weather
 
 session_config:
   session_expiration_time: 60

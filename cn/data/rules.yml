@@ -6,3 +6,8 @@ rules:
   steps:
   - intent: goodbye
   - action: utter_goodbye
+
+- rule: Let's get the weather for amsterdam
+  steps:
+  - intent: weather
+  - action: action_weather

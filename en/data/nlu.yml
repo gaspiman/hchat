@@ -83,3 +83,9 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+
+- intent: weather
+  examples: |
+    - what is the weather
+    - what will the weather be like tomorrow
+    - what's the weather like today
