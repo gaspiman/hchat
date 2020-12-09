@@ -29,7 +29,7 @@ Inside the /cn or /en directories
 ```
 rasa run --enable-api --cors "*" --port 5004 --debug
 ```
-## Running the action server
+### Running the action server
 Inside the /cn or /en directories
 ```
 rasa run actions --port 5055 --debug
